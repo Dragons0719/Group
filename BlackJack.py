@@ -1,3 +1,9 @@
+# Coded by James Woolbright and Blake Richardson
+# Designed by Elijah Rotenberger
+# Journal Writer - Lucas Deckard
+# Researcher - Bernie Jobel-Diaz
+# Debugger - Luke Atkins
+# Last Updated: 9/20/2022
 
 from tkinter import *
 import random
